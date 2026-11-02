@@ -34,7 +34,7 @@ body{
 /* ***************************** */
 
 header .poster{
-    background: linear-gradient(to right, #4a0f98, #b16616);
+    background: linear-gradient(to right, #4a0f98, hotpink);
     display: flex;
     justify-content: center;
     align-items: center;
